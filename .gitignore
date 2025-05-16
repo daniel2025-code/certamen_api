@@ -1,2 +1,4 @@
 node_modules
 rubrica_index.js
+.env
+prisma/dev.db
